@@ -1,3 +1,2 @@
 # git_test
-Test github repo
-Hello world
+Quick test github repo
